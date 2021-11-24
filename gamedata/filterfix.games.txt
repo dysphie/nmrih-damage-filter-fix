@@ -1,0 +1,23 @@
+"Games"
+{
+	"nmrih"
+	{
+		"Offsets"
+		{
+			"CBaseEntity::m_hDamageFilter"
+			{
+				"windows" "240"
+			}
+
+			"CBaseFilter::m_bNegated"
+			{
+				"windows"	"888"
+			}
+
+			"FilterDamageType::m_iDamageType"
+			{
+				"windows" "940"
+			}		
+		}
+	}
+}
