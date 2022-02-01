@@ -1,3 +1,5 @@
+> ❗ Deprecated, added to the base game
+
 # [NMRiH] Damage Filter Fix
 
 Fixes broken damage filters in NMRiH 1.12.1.
